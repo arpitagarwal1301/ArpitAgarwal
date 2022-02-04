@@ -12,5 +12,5 @@ About me
 ## Profiles  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-arpitagarwal1301-blue)](https://www.linkedin.com/in/arpitagarwal1301/)
-[![Mail](https://img.shields.io/badge/Gmail-arpitvinshu%40gmail.com%20-red)](mailto:hi@arpitvinshu@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-arpitvinshu%40gmail.com%20-red)](mailto:arpitvinshu@gmail.com?body=Hi%20Arpit%2C)
 [![Medium](https://img.shields.io/badge/Medium-%40arpitvinshu-Black)](https://medium.com/@arpitvinshu)
